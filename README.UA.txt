@@ -21,7 +21,7 @@ LogMessage має наступні поля:
         public string StackTrace;
         public DateTime DateTime;
 
-Публічний інтерфейс має декілька версій перевантаженого метода Log, і дозволяє логувати як явно ініціалізовані лог повідомлення
+Публічний інтерфейс має декілька версій перевантаженого метода Log, і дозволяє логувати як явно задані лог повідомлення
 так і неявно(в цьому випадку DateTime і LogLevel бутуь ініцалізовані неявно)
 
 	void Log(LogLevel type, string message, string source, string stackTrace);
