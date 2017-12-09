@@ -22,7 +22,7 @@ LogMessage має наступні поля:
         public DateTime DateTime;
 
 Публічний інтерфейс має декілька версій перевантаженого метода Log, і дозволяє логувати як явно задані лог повідомлення
-так і неявно(в цьому випадку DateTime і LogLevel бутуь ініцалізовані неявно)
+так і неявно(в цьому випадку DateTime і LogLevel бутуь ініцалізовані автоматично)
 
 	void Log(LogLevel type, string message, string source, string stackTrace);
         void Log(LogLevel level, LogMessage currentMessage);
