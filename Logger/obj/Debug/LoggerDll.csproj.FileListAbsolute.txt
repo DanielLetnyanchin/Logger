@@ -1,0 +1,6 @@
+C:\Users\ZAREO\Desktop\EPAM .NET\MEGA TASK\TEST\LoggerDll\LoggerDll\bin\Debug\LoggerDll.dll
+C:\Users\ZAREO\Desktop\EPAM .NET\MEGA TASK\TEST\LoggerDll\LoggerDll\bin\Debug\LoggerDll.pdb
+C:\Users\ZAREO\Desktop\EPAM .NET\MEGA TASK\TEST\LoggerDll\LoggerDll\obj\Debug\LoggerDll.csprojResolveAssemblyReference.cache
+C:\Users\ZAREO\Desktop\EPAM .NET\MEGA TASK\TEST\LoggerDll\LoggerDll\obj\Debug\LoggerDll.csproj.CoreCompileInputs.cache
+C:\Users\ZAREO\Desktop\EPAM .NET\MEGA TASK\TEST\LoggerDll\LoggerDll\obj\Debug\LoggerDll.dll
+C:\Users\ZAREO\Desktop\EPAM .NET\MEGA TASK\TEST\LoggerDll\LoggerDll\obj\Debug\LoggerDll.pdb

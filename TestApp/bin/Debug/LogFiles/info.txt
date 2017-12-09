@@ -1,0 +1,45 @@
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 8
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 1
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 3
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 2
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 3
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 8
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 3
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 0
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:27:26
+Message: Rand was 7
+
+
+

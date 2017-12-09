@@ -1,0 +1,110 @@
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 9 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 15 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 19 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 17 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 9 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 13 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 15 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 17 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 11 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:25
+Message: Rand was 13 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
+Error LogMessage was generated at: 09.12.2017 15:27:26
+Message: Rand was 18 and throw: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+Source: mscorlib
+StackTrace:    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TestApp.Program.Main(String[] args) в C:\Users\ZAREO\Desktop\EPAM .NET\GitHub\Logger\testapp\Program.cs:строка 27
+
+
+
