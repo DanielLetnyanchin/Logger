@@ -43,3 +43,53 @@ Message: Rand was 7
 
 
 
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 0
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 5
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 4
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 7
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 1
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 1
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 4
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 5
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 4
+
+
+
+Info LogMessage was generated at: 09.12.2017 15:30:22
+Message: Rand was 1
+
+
+
